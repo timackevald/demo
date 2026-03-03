@@ -75,6 +75,7 @@ The configuration file `sunspots.json` is located in the `Sunspots/config` folde
         }
     ]
 }
+
 #### Timer Types
 The "Timer-type" field is set to either 0 or 1:
 - Type 0 (Heartbeat Mode): Requires a heartbeat_interval to be defined.
